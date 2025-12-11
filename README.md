@@ -1,7 +1,8 @@
 # Factor Pairs Finder  
 
-## 📌 Description  
-A simple Java program that prints all pairs of factors for a given number.The program takes an integer as input and finds every combination of two numbers whose product equals the input.
+### 📌 Description  
+
+#### A simple Java program that prints all pairs of factors for a given number.The program takes an integer as input and finds every combination of two numbers whose product equals the input.
 ---
 ## 🚀 Example  
 Input:  
