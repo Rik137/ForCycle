@@ -25,8 +25,8 @@ javac Main.java
 Run:  
 java Main  
 Enter a number and see the result. 
-## 💡 Possible improvements  
-Remove duplicates (e.g. print 3 * 4 only once).  
+## 💡 Possible improvements   
+Remuve duplicates (e.g. print 3 * 4 only once).  
 Add support for negative numbers.  
 ---
 The repository exists purely as a learning and demonstration artifact.
